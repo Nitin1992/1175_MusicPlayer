@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bk2"
+    android:orientation="vertical" >
+
+    <DatePicker
+        android:id="@+id/datePicker1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="167sp" />
+
+    <TextView
+        android:id="@+id/textView90"
+        android:layout_width="250sp"
+        android:layout_height="50sp"
+        android:layout_above="@+id/datePicker1"
+        android:layout_alignLeft="@+id/datePicker1"
+        android:layout_marginBottom="31sp"
+        android:text="@string/p"
+        android:textColor="@color/black"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="120sp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="102sp"
+        android:background="@drawable/nwbk"
+        android:text="@string/w"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/btnShuffle1"
+        android:layout_width="70sp"
+        android:layout_height="70sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/h"
+        android:text="@string/v" />
+
+</RelativeLayout>

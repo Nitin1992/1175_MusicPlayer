@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello user, choose the activity :</string>
+    <string name="app_name">MusicPlayer</string>
+     <string name="a">MusicPlayer</string>
+     <string name="b">Phone Info</string>
+     <string name="c">Calender</string>
+     <string name="d">Clock</string>
+     <color name="red">#ff0000</color>
+     <string name="e">       Welcome to Music Player  !!!</string>
+     <string name="f">Play</string>
+     <string name="g">Pause</string>
+     <string name="h">Stop</string>
+     <string name="i">Previous</string>
+     <string name="j">Next</string>
+     <string name="k">Date</string>
+     <string name="l">Username:</string>
+     <string name="m">Password:</string>
+     <string name="n">Login</string>
+     <string name="o">  The time is :</string>
+     <string name="p">The Date is :</string>
+     <string name="q"> Phone Model</string>
+     <string name="r">Android Version</string>
+     <string name="s">Kernel</string>
+     <string name="t">Phone Memory</string>
+     <string name="u">Home</string>
+     <string name="v"> </string>
+    <string name="w">Calender</string>
+    <string name="x">Your model no is :</string>
+<string name="y">AVD2</string>
+<string name="z">Android version for your phone is:</string>
+<string name="ab">Android 2.2</string>
+<string name="ca">Kernel Version : </string>
+<string name="bc">2.6.35.7</string>
+<string name="cd">Phone Memory :</string>
+<string name="da">16GB</string>
+<string name="cc">dpi@DELL167#1</string>
+<string name="fb">Android 2.2</string>
+<string name="kb">Android 2.2</string>
+<string name="lb">Android 2.2</string>
+<string name="db">Android 2.2</string>
+<string name="bb">Android 2.2</string>
+<string name="nm">Phone Information  :</string>
+<color name="green">#00ff00</color>
+<string name="fg">April </string>
+<string name="xz">Sun</string>
+<string name="sx">Mon</string>
+<string name="ds">Tue</string>
+<string name="aw">Wed</string>
+<string name="wa">Thu</string>
+<string name="kj">Fri</string>
+<string name="lo">Sat</string>
+<string name="lt">User Name</string>
+<color name="purple">#880088</color>
+
+<color name="yellow">#999900</color>
+<string name="m1">Available Internal Memory Size:</string>
+<string name="m2">Available External Memory Size:</string>
+<string name="m3">Total External Memory Size:</string>
+<string name="m4">Total Internal Memory Size:</string>
+<string name="previous_month">PREVIOUS MONTH</string>
+<string name="next_month">NEXT MONTH</string>
+<string name="calender">CALENDER</string>
+<string name="home">home</string>
+<string name="btnplalist">btnplalist</string>
+<string name="todo">TODO</string>
+
+
+
+</resources>
